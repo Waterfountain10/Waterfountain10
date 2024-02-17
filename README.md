@@ -5,7 +5,7 @@
 ## About Me
 I'm a 20 year old developer focused in full-stack development and machine learning. Currently, I'm studying :
 <br><br/>
-<h3 align="center">Mathematics + Computer Science @ McGill University 🍁</h3>
+<h3 align="center">Statistics + Computer Science @ McGill University 🍁</h3>
 <br> <br/>
 
 ## I’m Currently Learning/Reading about
