@@ -1,11 +1,7 @@
-# 👋🏻 Hi there, I'm William
-
-
-
-## About Me
+### Yo
 I'm a 21 year old developer. I specialize in machine learning and infrastructure.
 
-## Fun Facts
+### Fun Facts
 - Competitive Dragonboater
 - Loves to watch Racoon videos
 - matcha > coffee
