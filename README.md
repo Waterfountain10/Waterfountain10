@@ -1,10 +1,10 @@
-### Hello, my name is William.
+### hello~!
 
 ---
 
-I'm a 21 year old developer.
+I'm a 21 year old developer based in Montreal.
 
-I write mainly in Go, Java, and Python (for ML).
+I build tools for developers or fun projects with my buddies.
 
 I speak English (en), French (fr), Korean (한국어), and currently learning Japanese (日本語).
 
