@@ -1,8 +1,10 @@
 ### hey! :>
 
-i enjoy building for developers. mostly low-level projects. (en) + (fr) + (vi)         
-⠀
-occasionaly lifter, dragonboater, or v6-lover (can't go higher yet) 
+> i enjoy building for developers. mostly low-level projects.    
+
+>> can speak (en) + (fr) + (vi) +/- (kr)
+
+>>> lifter, dragonboater, or v6-lover (can't go higher yet) 
 
 _hit me up if you want to collaborate on a big project_
 
